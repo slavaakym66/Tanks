@@ -1,0 +1,12 @@
+tank1 = Tank("T-34", 90, 20, 30, 100)
+tank2 = Tank("Tiger", 120, 10, 50, 120)
+tank1.print_info()
+tank2.print_info()
+
+tank1.shot(tank2)
+tank1.shot(tank2)
+tank1.shot(tank2)
+tank1.shot(tank2)
+tank1.shot(tank2)
+tank1.shot(tank2)
+tank1.shot(tank2)
